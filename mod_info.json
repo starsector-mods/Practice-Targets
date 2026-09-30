@@ -1,0 +1,11 @@
+{
+    "id":"TAR",
+    "name":"Practice Targets",
+    "author":"Created by Tartiflette. Based on an idea from Foxer360.",
+    "utility":"true",
+    "version":"1.41rc2",
+    "description":"Test your weapons and ships with these passive practice targets.",
+    "gameVersion": "0.95a-RC10",
+    "modPlugin":"data.scripts.TAR_modPlugin",
+    "jars":["jars/PracticeTargets.jar"],
+}
